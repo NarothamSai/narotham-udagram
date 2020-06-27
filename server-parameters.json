@@ -1,0 +1,14 @@
+[
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "NarothamUdagram"
+    },
+    {
+        "ParameterKey": "EC2InstanceAMI",
+        "ParameterValue": "ami-003634241a8fcdec0"
+    },
+    {
+        "ParameterKey": "WebAppS3Name",
+        "ParameterValue": "narotham-udagram"
+    }
+]
